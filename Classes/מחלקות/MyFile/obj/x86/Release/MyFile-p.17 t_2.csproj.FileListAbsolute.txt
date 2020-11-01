@@ -1,0 +1,4 @@
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyFile\bin\Release\MyFile.exe
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyFile\bin\Release\MyFile.pdb
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyFile\obj\x86\Release\MyFile.exe
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyFile\obj\x86\Release\MyFile.pdb

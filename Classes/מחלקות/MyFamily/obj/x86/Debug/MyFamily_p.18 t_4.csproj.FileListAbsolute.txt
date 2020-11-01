@@ -1,0 +1,4 @@
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyFamily\bin\Debug\MyFamily.exe
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyFamily\bin\Debug\MyFamily.pdb
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyFamily\obj\x86\Debug\MyFamily.exe
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyFamily\obj\x86\Debug\MyFamily.pdb

@@ -1,0 +1,5 @@
+F:\מדעי המחשב\ספר ב\מערך עצמים, אובייקטים\P_99 T_38\MyDate\bin\Debug\MyDate.exe
+F:\מדעי המחשב\ספר ב\מערך עצמים, אובייקטים\P_99 T_38\MyDate\bin\Debug\MyDate.pdb
+F:\מדעי המחשב\ספר ב\מערך עצמים, אובייקטים\P_99 T_38\MyDate\obj\x86\Debug\MyDate.exe
+F:\מדעי המחשב\ספר ב\מערך עצמים, אובייקטים\P_99 T_38\MyDate\obj\x86\Debug\MyDate.pdb
+F:\מדעי המחשב\ספר ב\מערך עצמים, אובייקטים\P_99 T_38\MyDate\obj\x86\Debug\MyDate.csprojResolveAssemblyReference.cache

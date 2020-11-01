@@ -1,0 +1,5 @@
+F:\מדעי המחשב\ספר ב\חזרה למבחן\p_58 t_2\p_58 t_5\bin\Release\p_58 t_5.exe
+F:\מדעי המחשב\ספר ב\חזרה למבחן\p_58 t_2\p_58 t_5\bin\Release\p_58 t_5.pdb
+F:\מדעי המחשב\ספר ב\חזרה למבחן\p_58 t_2\p_58 t_5\obj\x86\Release\p_58 t_5.exe
+F:\מדעי המחשב\ספר ב\חזרה למבחן\p_58 t_2\p_58 t_5\obj\x86\Release\p_58 t_5.pdb
+F:\מדעי המחשב\ספר ב\חזרה למבחן\p_58 t_2\p_58 t_5\obj\x86\Release\p_58 t_5.csprojResolveAssemblyReference.cache

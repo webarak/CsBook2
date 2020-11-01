@@ -1,0 +1,4 @@
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyFile\bin\Debug\MyFile.exe
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyFile\bin\Debug\MyFile.pdb
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyFile\obj\x86\Debug\MyFile.exe
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyFile\obj\x86\Debug\MyFile.pdb

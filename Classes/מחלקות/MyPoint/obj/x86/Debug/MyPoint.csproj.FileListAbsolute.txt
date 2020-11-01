@@ -1,0 +1,4 @@
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyPoint\bin\Debug\MyPoint.exe
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyPoint\bin\Debug\MyPoint.pdb
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyPoint\obj\x86\Debug\MyPoint.exe
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyPoint\obj\x86\Debug\MyPoint.pdb

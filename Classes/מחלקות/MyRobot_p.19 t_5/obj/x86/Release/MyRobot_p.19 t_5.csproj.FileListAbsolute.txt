@@ -1,0 +1,4 @@
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyRobot_p.19 t_5\bin\Release\MyRobot_p.19 t_5.exe
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyRobot_p.19 t_5\bin\Release\MyRobot_p.19 t_5.pdb
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyRobot_p.19 t_5\obj\x86\Release\MyRobot_p.19 t_5.exe
+F:\מדעי המחשב\ספר ב\מחלקות\מחלקות\MyRobot_p.19 t_5\obj\x86\Release\MyRobot_p.19 t_5.pdb

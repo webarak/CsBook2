@@ -1,0 +1,8 @@
+C:\Users\user\AppData\Local\Temporary Projects\מחרוזות\bin\Release\מחרוזות.exe
+C:\Users\user\AppData\Local\Temporary Projects\מחרוזות\bin\Release\מחרוזות.pdb
+C:\Users\user\AppData\Local\Temporary Projects\מחרוזות\obj\x86\Release\מחרוזות.exe
+C:\Users\user\AppData\Local\Temporary Projects\מחרוזות\obj\x86\Release\מחרוזות.pdb
+F:\מדעי המחשב\ספר ב\חזרה למבחן\p_58 t_2\p_58 t_2\bin\Release\p_58 t_2.exe
+F:\מדעי המחשב\ספר ב\חזרה למבחן\p_58 t_2\p_58 t_2\bin\Release\p_58 t_2.pdb
+F:\מדעי המחשב\ספר ב\חזרה למבחן\p_58 t_2\p_58 t_2\obj\x86\Release\p_58 t_2.exe
+F:\מדעי המחשב\ספר ב\חזרה למבחן\p_58 t_2\p_58 t_2\obj\x86\Release\p_58 t_2.pdb

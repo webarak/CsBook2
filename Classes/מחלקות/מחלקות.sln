@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStudents", "מחלקות\MyStudents.csproj", "{056E6A83-0DD3-49C9-B12A-2CF47CA2E51B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPoint - p.17 t_1", "MyPoint\MyPoint - p.17 t_1.csproj", "{01FF1F5C-8725-4356-9544-BA0957EDBECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFile-p.17 t_2", "MyFile\MyFile-p.17 t_2.csproj", "{1F0D8E93-E835-4342-BA12-E3BB3E9DD358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFamily_p.18 t_4", "MyFamily\MyFamily_p.18 t_4.csproj", "{EB7D4B19-EC4D-45A8-8C69-83510400B579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRobot_p.19 t_5", "MyRobot_p.19 t_5\MyRobot_p.19 t_5.csproj", "{93F0EAE0-1C0D-4CE4-8148-8F5AFEC70776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{056E6A83-0DD3-49C9-B12A-2CF47CA2E51B}.Debug|x86.ActiveCfg = Debug|x86
+		{056E6A83-0DD3-49C9-B12A-2CF47CA2E51B}.Debug|x86.Build.0 = Debug|x86
+		{056E6A83-0DD3-49C9-B12A-2CF47CA2E51B}.Release|x86.ActiveCfg = Release|x86
+		{056E6A83-0DD3-49C9-B12A-2CF47CA2E51B}.Release|x86.Build.0 = Release|x86
+		{01FF1F5C-8725-4356-9544-BA0957EDBECB}.Debug|x86.ActiveCfg = Debug|x86
+		{01FF1F5C-8725-4356-9544-BA0957EDBECB}.Debug|x86.Build.0 = Debug|x86
+		{01FF1F5C-8725-4356-9544-BA0957EDBECB}.Release|x86.ActiveCfg = Release|x86
+		{01FF1F5C-8725-4356-9544-BA0957EDBECB}.Release|x86.Build.0 = Release|x86
+		{1F0D8E93-E835-4342-BA12-E3BB3E9DD358}.Debug|x86.ActiveCfg = Debug|x86
+		{1F0D8E93-E835-4342-BA12-E3BB3E9DD358}.Debug|x86.Build.0 = Debug|x86
+		{1F0D8E93-E835-4342-BA12-E3BB3E9DD358}.Release|x86.ActiveCfg = Release|x86
+		{1F0D8E93-E835-4342-BA12-E3BB3E9DD358}.Release|x86.Build.0 = Release|x86
+		{EB7D4B19-EC4D-45A8-8C69-83510400B579}.Debug|x86.ActiveCfg = Debug|x86
+		{EB7D4B19-EC4D-45A8-8C69-83510400B579}.Debug|x86.Build.0 = Debug|x86
+		{EB7D4B19-EC4D-45A8-8C69-83510400B579}.Release|x86.ActiveCfg = Release|x86
+		{EB7D4B19-EC4D-45A8-8C69-83510400B579}.Release|x86.Build.0 = Release|x86
+		{93F0EAE0-1C0D-4CE4-8148-8F5AFEC70776}.Debug|x86.ActiveCfg = Debug|x86
+		{93F0EAE0-1C0D-4CE4-8148-8F5AFEC70776}.Debug|x86.Build.0 = Debug|x86
+		{93F0EAE0-1C0D-4CE4-8148-8F5AFEC70776}.Release|x86.ActiveCfg = Release|x86
+		{93F0EAE0-1C0D-4CE4-8148-8F5AFEC70776}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
